@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1719198556 source:c:\users\sameera\documents\project\sri lankan nic information project\main.cpp
+	<iostream>
+	"NIC.h"
+
+1719199496 c:\users\sameera\documents\project\sri lankan nic information project\include\nic.h
+	<string>
+
+1719199302 source:c:\users\sameera\documents\project\sri lankan nic information project\nic.cpp
+	"NIC.h"
+	<iostream>
+	<fstream>
+	<stdexcept>
+	<sys/stat.h>
+	<ctime>
+
